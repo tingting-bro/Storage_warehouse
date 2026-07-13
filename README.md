@@ -46,7 +46,7 @@
 ## 安装与使用
 
 ### 下载
-请从本仓库 [Releases](https://github.com/tingting-bro/Login-Pro-save-box/releases) 页面获取最新稳定版压缩包，或通过 Git 克隆源码自行编译。
+请从本仓库 [Releases](https://github.com/tingting-bro/Login-Pro-save-box/releases) 页面获取最新稳定版压缩包。
 
 ### 快速启动
 1. 解压到任意目录。
